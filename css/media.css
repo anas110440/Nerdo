@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media(max-width:767px)
+{
+	.option-box{
+	left: 87%;
+
+}
+}
+
+@media(min-width:768px)
+{
+		.option-box{
+	left: 90%;
+
+}
+}
+/* Medium Screen */
+@media(min-width:992px)
+{
+
+		.option-box{
+	left: 94%;
+
+}
+}
+/* */
+@media(min-width:1200px)
+{
+	
+		.option-box{
+	left: 95%;
+
+}
+}

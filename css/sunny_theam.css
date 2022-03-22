@@ -1,0 +1,42 @@
+
+.navbar-light  .navbar-nav .nav-link{
+	color: #312e29;
+
+}
+.about,
+.recent-work{
+	background-color: #e0e0e0;
+
+}
+
+
+.about .lead,
+.service h4,
+.service p{
+	color: black;
+}
+
+.service,
+.our-clients{
+	background-color: #d0d0d0;
+
+}
+
+.our_team{
+	background:#302d28;
+}
+
+.statistics .data{
+	background-color: rgba(235,153,25,0.7);
+		 
+	
+}
+
+.statistics p {
+	color: #302d28;
+
+
+}
+.statistics span{
+	color: #fff;
+}
